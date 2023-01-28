@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DestinationActivity">
+    <ImageView
+
+        android:id="@+id/cover_destination"
+        android:layout_marginTop="10dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/coastke"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+
+        android:id="@+id/TV_destination1"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Circuit:"
+        android:textSize="25sp"
+        android:textColor="@color/accent"
+        android:lines="2"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/TV_destination2"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Coast"
+        android:textSize="25sp"
+        android:textColor="@color/accent"
+        android:lines="1"
+        android:textStyle="italic"/>
+
+</LinearLayout>

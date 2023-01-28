@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427259223918",
+    "project_id": "tuende-dfc00",
+    "storage_bucket": "tuende-dfc00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427259223918:android:0ae50dba8fcecbfa0c2b7f",
+        "android_client_info": {
+          "package_name": "com.temtemo.tuende"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427259223918-3s21okuhg53l4qn1teut9n7qscgqqgur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9k1INv19zmDC6EmN9dNGLzC9NeY86pGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427259223918-3s21okuhg53l4qn1teut9n7qscgqqgur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

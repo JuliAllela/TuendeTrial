@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TUende</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="your_email">Email</string>
+    <string name="type_your_password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_sign_in">Already have an account , <b>Sign In !</b></string>
+    <string name="type_your_email">Email</string>
+    <string name="type_your_password1">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Yet on TUende , <b>Sign Up !</b></string>
+    <string name="page_cover">Cover</string>
+    <string name="gems_of_kenya">Gems Of Kenya</string>
+    <string name="circuits">Circuits</string>
+</resources>
